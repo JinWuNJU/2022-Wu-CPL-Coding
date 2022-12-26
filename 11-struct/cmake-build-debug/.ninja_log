@@ -1,0 +1,7 @@
+# ninja log v5
+2	149	6927281429822638	CMakeFiles/musicians.dir/musicians.c.obj	b88bbf24e638d430
+149	372	6927281432016275	musicians.exe	daf7931fbc62be5e
+130	319	6927348464760623	stringchange.exe	2eaea120310265e4
+18	2614	6927433395269870	CMakeFiles/fifa.dir/fifa.c.obj	7885ff185c6faec2
+2615	3631	6927433404493410	fifa.exe	6595ab1d0d634281
+5	129	6927348462936019	CMakeFiles/stringchange.dir/stringchange.c.obj	8c0719b598ff55f2

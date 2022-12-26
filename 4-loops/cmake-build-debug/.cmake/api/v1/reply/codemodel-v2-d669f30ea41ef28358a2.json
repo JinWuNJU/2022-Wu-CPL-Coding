@@ -1,0 +1,164 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "6_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6_1-Debug-23bb3a124efd7dc92f22.json",
+					"name" : "6_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6_2-Debug-fe0eb9ebda3a8d70b8d9.json",
+					"name" : "6_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6_3-Debug-620792a1efbc5cf896ce.json",
+					"name" : "6_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6_4-Debug-d89bde68e5258e7c5fd5.json",
+					"name" : "6_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6_5-Debug-cbbc10478de8c1ff94ae.json",
+					"name" : "6_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6_6-Debug-9a095bed21d51459964c.json",
+					"name" : "6_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "life::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-life-Debug-e21fe8350547c6fd6270.json",
+					"name" : "life",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matrix-mult::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matrix-mult-Debug-14271012c089462c8590.json",
+					"name" : "matrix-mult",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mines::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mines-Debug-7d2b96b06b347e6d9eb7.json",
+					"name" : "mines",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shangke::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shangke-Debug-23c30e1cd2d9312a4a63.json",
+					"name" : "shangke",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shangke2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shangke2-Debug-f959050b7e0d30becb88.json",
+					"name" : "shangke2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sudoku::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sudoku-Debug-a34b3d4f4189913d7e2f.json",
+					"name" : "sudoku",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "trace::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-trace-Debug-9060265a32b4a04639e4.json",
+					"name" : "trace",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/2022-Wu-Cpl-Coding/4-loops/cmake-build-debug",
+		"source" : "E:/2022-Wu-Cpl-Coding/4-loops"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

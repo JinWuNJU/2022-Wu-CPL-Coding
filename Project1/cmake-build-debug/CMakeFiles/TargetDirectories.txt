@@ -1,0 +1,5 @@
+D:/Coding/coding(1)/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/SDL.dir
+D:/Coding/coding(1)/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/calculator.dir
+D:/Coding/coding(1)/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/mycalculator.dir
+D:/Coding/coding(1)/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/coding(1)/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

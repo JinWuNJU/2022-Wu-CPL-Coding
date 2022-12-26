@@ -1,0 +1,200 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Quick-sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Quick-sort-Debug-ccbe297b953602ff2883.json",
+					"name" : "Quick-sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "decimal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-decimal-Debug-6d211b38476aaf34be51.json",
+					"name" : "decimal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "erfen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-erfen-Debug-2f3682492d26b9f62deb.json",
+					"name" : "erfen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flip::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flip-Debug-0846723e48dcf3d2843b.json",
+					"name" : "flip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jiji::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jiji-Debug-d0952cdf432681a35c38.json",
+					"name" : "jiji",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jiji2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jiji2-Debug-566badf2352a82e0ffe0.json",
+					"name" : "jiji2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jiji3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jiji3-Debug-4b1a45b5ccde017da392.json",
+					"name" : "jiji3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jiji4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jiji4-Debug-7d54a00ddac430935309.json",
+					"name" : "jiji4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "josephus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-josephus-Debug-f356ef29cadd12206f05.json",
+					"name" : "josephus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "palindrome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-palindrome-Debug-02cc0ab05cf8f2940dac.json",
+					"name" : "palindrome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prime_number_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prime_number_2-Debug-628d01ef4202ec4ee1f4.json",
+					"name" : "prime_number_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shuixianhua::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shuixianhua-Debug-16370bf7e69edfea49bc.json",
+					"name" : "shuixianhua",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shuzupaixu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shuzupaixu-Debug-89edf103fbb6732b4ce5.json",
+					"name" : "shuzupaixu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shuzupaixu_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shuzupaixu_2-Debug-f73b1bf446a795a37738.json",
+					"name" : "shuzupaixu_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "star::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-star-Debug-54fa0a1af15d3733756c.json",
+					"name" : "star",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "statistics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-statistics-Debug-d5df4839249b55684193.json",
+					"name" : "statistics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "weishu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weishu-Debug-9b8e009629b07de8e572.json",
+					"name" : "weishu",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Coding/coding(1)/2022-Wu-Cpl-Coding/3-for-a-while/cmake-build-debug",
+		"source" : "D:/Coding/coding(1)/2022-Wu-Cpl-Coding/3-for-a-while"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,5 @@
+# ninja log v5
+1	660	6926092008946533	CMakeFiles/triangle.dir/triangle.c.obj	bfd3944ae0d37a57
+663	935	6926092011904840	triangle.exe	98a1436b43b0ba7a
+2	628	6926092591464897	CMakeFiles/magic!.dir/magic!.c.obj	73ddc4aefdf65c04
+629	1066	6926092595989929	magic!.exe	302946a441380aee

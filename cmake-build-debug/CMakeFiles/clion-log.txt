@@ -1,0 +1,30 @@
+"ERROR:\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=ERROR:/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S ERROR:\2022-Wu-Cpl-Coding -B ERROR:\2022-Wu-Cpl-Coding\cmake-build-debug
+CMake Error at 6-recursion/CMakeLists.txt:10 (add_executable):
+  add_executable cannot create target "jiji" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "ERROR:/2022-Wu-Cpl-Coding/3-for-a-while".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at 6-recursion/CMakeLists.txt:11 (add_executable):
+  The target name "magic!" is reserved or not valid for certain CMake
+  features, such as generator expressions, and may result in undefined
+  behavior.
+
+
+CMake Error at 8-pointers-array/CMakeLists.txt:11 (add_executable):
+  add_executable cannot create target "swap" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "ERROR:/2022-Wu-Cpl-Coding/5-function".  See documentation for
+  policy CMP0002 for more details.
+
+
+CMake Error at 9-pointers-c-string/CMakeLists.txt:10 (add_executable):
+  add_executable cannot create target "try" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "ERROR:/2022-Wu-Cpl-Coding/8-pointers-array".  See
+  documentation for policy CMP0002 for more details.
+
+
+-- Configuring incomplete, errors occurred!
+See also "ERROR:/2022-Wu-Cpl-Coding/cmake-build-debug/CMakeFiles/CMakeOutput.log".
