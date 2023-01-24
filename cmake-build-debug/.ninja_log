@@ -1,0 +1,12 @@
+# ninja log v5
+753	1418	6922780607586103	hello.exe	fd39b2e94c8af80f
+1537	2060	6926076426842075	5-function/magic-square.exe	60464545bf928e5f
+4	258	6922830667935028	1-types-io/CMakeFiles/circle.dir/circle.c.obj	6e7eaad82573932b
+684	1339	6925396859795515	1-types-io/antant.exe	2082523e79ee5967
+260	971	6922830674982772	1-types-io/circle.exe	4c01716439a00fea
+1	309	6926076076816276	10-double-pointers/CMakeFiles/integrate.dir/integrate.c.obj	67e16bdda7f2a98b
+0	682	6925396853237634	1-types-io/CMakeFiles/antant.dir/antant.c.obj	99cdf9af3aff3e2b
+311	644	6926076080082818	10-double-pointers/integrate.exe	3fd66d60d8f445f6
+2	426	6926076214390680	5-function/CMakeFiles/behaviors.dir/behaviors.c.obj	3a5ed20c4b423479
+427	733	6926076217432457	5-function/behaviors.exe	5ff89986f30e7a07
+1	1532	6926076421058777	5-function/CMakeFiles/magic-square.dir/magic-square.c.obj	c341fedeefd73e6

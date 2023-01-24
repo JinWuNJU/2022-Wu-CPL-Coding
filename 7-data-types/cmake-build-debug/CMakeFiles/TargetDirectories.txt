@@ -1,0 +1,16 @@
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/10_1.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/10_2.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/10_3.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/10_4.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/10_5.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/10_6.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/10_7.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/brackets.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/buddy.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/cuboid.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/plus.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/pour.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/rotate.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/wine.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/edit_cache.dir
+ERROR:/2022-Wu-Cpl-Coding/7-data-types/cmake-build-debug/CMakeFiles/rebuild_cache.dir

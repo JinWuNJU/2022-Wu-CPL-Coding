@@ -1,0 +1,200 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "7_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_1-Debug-a01a6024e5d0da0055bb.json",
+					"name" : "7_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_2-Debug-2ecce5a106e17413740f.json",
+					"name" : "7_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_3-Debug-610e276a7b5d5f6dfdf1.json",
+					"name" : "7_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_4-Debug-45261bcac06fb2fb0059.json",
+					"name" : "7_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8_1-Debug-a915d179dbabbb3a2101.json",
+					"name" : "8_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8_2-Debug-e09c42a00f7420aea385.json",
+					"name" : "8_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8_3-Debug-ba363a12c651f636c530.json",
+					"name" : "8_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "buhui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-buhui-Debug-5f0a2f8d32fc2afe4462.json",
+					"name" : "buhui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "integration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-integration-Debug-d7b801661aa6be854565.json",
+					"name" : "integration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jiji::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jiji-Debug-69e80eb3ebfc073c4c1d.json",
+					"name" : "jiji",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "magic!::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-magic!-Debug-3badd1382bc1ff788c20.json",
+					"name" : "magic!",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "max::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-max-Debug-2019003463183778de2d.json",
+					"name" : "max",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pascal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pascal-Debug-0813a58f637aeb3c1d18.json",
+					"name" : "pascal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "poi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-poi-Debug-7ef9dafc43d29b992c92.json",
+					"name" : "poi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tiles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tiles-Debug-8c4094327a18bccd1970.json",
+					"name" : "tiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tiles2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tiles2-Debug-a4d65bad673716dd4371.json",
+					"name" : "tiles2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-triangle-Debug-c84d7fc2364aabf8f14c.json",
+					"name" : "triangle",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/2022-Wu-Cpl-Coding/6-recursion/cmake-build-debug",
+		"source" : "E:/2022-Wu-Cpl-Coding/6-recursion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
