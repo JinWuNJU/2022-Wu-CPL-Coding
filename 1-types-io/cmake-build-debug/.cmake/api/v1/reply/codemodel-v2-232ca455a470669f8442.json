@@ -1,0 +1,119 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ASCII::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ASCII-Debug-1735abc8130b7d4eb0fd.json",
+					"name" : "ASCII",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "antant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-antant-Debug-7b8fa12c80cf51fb90fe.json",
+					"name" : "antant",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "circle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-circle-Debug-51494cc2a49f9f84afb2.json",
+					"name" : "circle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "day::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-day-Debug-afb1539738d3f89ffefe.json",
+					"name" : "day",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gravity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gravity-Debug-1abed1c95f79de78b1c5.json",
+					"name" : "gravity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pi-Debug-e7afc276bd0b926007cc.json",
+					"name" : "pi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sancifangchen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sancifangchen-Debug-0532081b73d397e47bad.json",
+					"name" : "sancifangchen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-Debug-1d4f72328b9ada505dbd.json",
+					"name" : "string",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Coding/coding(1)/2022-Wu-Cpl-Coding/1-types-io/cmake-build-debug",
+		"source" : "D:/Coding/coding(1)/2022-Wu-Cpl-Coding/1-types-io"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
