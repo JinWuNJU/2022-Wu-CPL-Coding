@@ -1,0 +1,7 @@
+# ninja log v5
+2	725	6929643929742872	CMakeFiles/12_1.dir/12_1.c.obj	53ef72d2175ba505
+197	522	6929650399711139	stringcat.exe	76ee8dc70b87bc7d
+730	1261	6929643935281318	12_1.exe	98769e5b99dea687
+5	196	6929650396542128	CMakeFiles/stringcat.dir/stringcat.c.obj	b0f0e0dc1ec66fd1
+43	4438	6932314910403834	CMakeFiles/stringcat.dir/stringcat.c.obj	b0f0e0dc1ec66fd1
+4451	5571	6932314921740886	stringcat.exe	76ee8dc70b87bc7d

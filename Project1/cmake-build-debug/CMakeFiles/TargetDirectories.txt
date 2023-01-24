@@ -1,0 +1,10 @@
+C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/SDL.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/calculator.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/mycalculator.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/xiaokonglong.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/Bzhan.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/ylgy.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/game.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/mainn.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

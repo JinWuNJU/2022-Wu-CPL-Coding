@@ -1,0 +1,209 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "5_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5_1-Debug-c2c20c5522a8c7cd254d.json",
+					"name" : "5_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5_2-Debug-124b584a47f4e10ed9d7.json",
+					"name" : "5_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5_3-Debug-232c958f2e152a420cf9.json",
+					"name" : "5_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5_4-Debug-1c58826df20e4256859c.json",
+					"name" : "5_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5_5-Debug-deaf26ede66605874ec2.json",
+					"name" : "5_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5_6-Debug-ff98b786e6b868225e89.json",
+					"name" : "5_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5_7-Debug-3212c3a326894738001e.json",
+					"name" : "5_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "collatz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-collatz-Debug-aba8c1ff74c228a83e4e.json",
+					"name" : "collatz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gongyueshu_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gongyueshu_1-Debug-74020f67536dc654256e.json",
+					"name" : "gongyueshu_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gongyueshu_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gongyueshu_2-Debug-2227d86b3c62fe7d037a.json",
+					"name" : "gongyueshu_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inverse_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inverse_2-Debug-91272f2f5c72b4f753d6.json",
+					"name" : "inverse_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jiecheng::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jiecheng-Debug-1885ec8035d9ca9d0836.json",
+					"name" : "jiecheng",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jishu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jishu-Debug-2b0399923d319db27d11.json",
+					"name" : "jishu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leap_year_if_else::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leap_year_if_else-Debug-9f5916503110382a3a46.json",
+					"name" : "leap_year_if_else",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "obstacle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-obstacle-Debug-e32f9ed937ae471f8220.json",
+					"name" : "obstacle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prime_number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prime_number-Debug-6ecada8affc5b14606ce.json",
+					"name" : "prime_number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shuzu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shuzu-Debug-103ec997b4e9e6915630.json",
+					"name" : "shuzu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "single_integer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-single_integer-Debug-998f57c3f7f5257e186b.json",
+					"name" : "single_integer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Coding/coding(1)/2022-Wu-Cpl-Coding/2-if-for-array/cmake-build-debug",
+		"source" : "D:/Coding/coding(1)/2022-Wu-Cpl-Coding/2-if-for-array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

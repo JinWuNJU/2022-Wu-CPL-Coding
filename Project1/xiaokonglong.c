@@ -94,7 +94,7 @@ void LogicUpdate(SDL_Window *window){
 
 void Render(SDL_Renderer *renderer){
     ClearScreen(renderer);
-    
+
     SDL_SetRenderDrawColor(renderer,0,255,0,255);
     SDL_RenderDrawRect(renderer,&greenrect);
 

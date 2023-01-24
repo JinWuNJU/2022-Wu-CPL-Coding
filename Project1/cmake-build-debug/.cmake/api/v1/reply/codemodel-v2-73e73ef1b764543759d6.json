@@ -1,0 +1,119 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Bzhan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bzhan-Debug-c3c10075772e79ae7f6c.json",
+					"name" : "Bzhan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL-Debug-3a1e110177a4a62f69a2.json",
+					"name" : "SDL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculator-Debug-736efe3a7baef93580d1.json",
+					"name" : "calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-game-Debug-3b45a1be936a78ed931c.json",
+					"name" : "game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mainn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mainn-Debug-20be4bfbab56cde6dd65.json",
+					"name" : "mainn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mycalculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mycalculator-Debug-c3cde59672fbf4aa0c1b.json",
+					"name" : "mycalculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xiaokonglong::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xiaokonglong-Debug-285b3806890cef982e89.json",
+					"name" : "xiaokonglong",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ylgy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ylgy-Debug-cd24236f6037d5e00572.json",
+					"name" : "ylgy",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1/cmake-build-debug",
+		"source" : "C:/D/coding/coding/2022-Wu-Cpl-Coding/Project1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

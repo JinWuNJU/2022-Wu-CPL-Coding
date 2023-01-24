@@ -1,0 +1,5 @@
+compile_flags.txt
+SDL2.dll
+*.exe
+*.o
+.vscode
