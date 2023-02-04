@@ -1,0 +1,33 @@
+
+7c:S1117|"$declaration shadows a local variable(¼çµ¬
+]c:S5276o"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(˜‹Ëµ
+Kc:S1117ğ"2declaration shadows a variable in the global scope(İı‰¢ÿÿÿÿÿ
+Kc:S1117„"2declaration shadows a variable in the global scope(¶ïÕ¿úÿÿÿÿ
+Cc:S1659"0Define each identifier in a dedicated statement.(¯úµµ
+ic:S995""XMake the type of this parameter a pointer-to-const. The current type of "x" is "char *".(‚š×s
+lc:S3776'"TRefactor this function to reduce its Cognitive Complexity from 42 to the 25 allowed.(–ç«ùÿÿÿÿ
+Bc:S16592"0Define each identifier in a dedicated statement.(î—´w
+oc:S995n"XMake the type of this parameter a pointer-to-const. The current type of "x" is "char *".(‰Ç‰ıÿÿÿÿ
+Cc:S1659o"0Define each identifier in a dedicated statement.(˜‹Ëµ
+6c:S1172£""Remove the unused parameter "len".(İŠû¦
+kc:S995£"XMake the type of this parameter a pointer-to-const. The current type of "x" is "char *".(İŠû¦
+Gc:S3562Ô".Add a "default" case to this switch statement.(õÙÆ‚úÿÿÿÿ
+Gc:S3562Ü".Add a "default" case to this switch statement.(õÙÆ‚úÿÿÿÿ
+Gc:S3562ä".Add a "default" case to this switch statement.(õÙÆ‚úÿÿÿÿ
+Gc:S3562ì".Add a "default" case to this switch statement.(õÙÆ‚úÿÿÿÿ
+mc:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 51 to the 25 allowed.(ÁªÛ›üÿÿÿÿ
+ec:S134¥"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(®ş°‰şÿÿÿÿ
+Dc:S1659”"0Define each identifier in a dedicated statement.(é´Àâ
+hc:S3776É"TRefactor this function to reduce its Cognitive Complexity from 57 to the 25 allowed.(Ôˆ™“
+`c:S134İ"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(í·ÛÙ
+`c:S134ã"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(óüö
+`c:S134ç"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Âğ›»
+ec:S134ö"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(­¿‚˜ÿÿÿÿÿ
+ec:S134ø"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¶ËÂşÿÿÿÿ
+Ic:S1081Ì"0Remove the use of this insecure "gets" function.(Éå•Ïúÿÿÿÿ
+^c:S924â"FReduce the number of nested "break" statements from 2 to 1 authorized.(¿ªøöúÿÿÿÿ
+Cc:S836â"+The right operand of '<' is a garbage value(¿ªøöúÿÿÿÿ
+1c:S125€"Remove the commented out code.(ÑÒæº
+6c:S125Œ"Remove the commented out code.(õ·æúÿÿÿÿ
+1c:S125’"Remove the commented out code.(ˆˆ¥ö
+6c:S125ş"Remove the commented out code.(îÉì‚üÿÿÿÿ

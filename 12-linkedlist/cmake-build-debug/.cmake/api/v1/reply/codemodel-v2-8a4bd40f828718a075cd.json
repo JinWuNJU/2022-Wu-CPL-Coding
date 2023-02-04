@@ -1,0 +1,83 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "chenqi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chenqi-Debug-663a06aa4567817dc1ba.json",
+					"name" : "chenqi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file-management::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file-management-Debug-113282ac6d238b45de27.json",
+					"name" : "file-management",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "josephuss::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-josephuss-Debug-844b6a09646f1e7e3332.json",
+					"name" : "josephuss",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stringhash::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stringhash-Debug-7a7ed7b0101d0cf9a56f.json",
+					"name" : "stringhash",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/D/coding/coding/2022-Wu-Cpl-Coding/12-linkedlist/cmake-build-debug",
+		"source" : "C:/D/coding/coding/2022-Wu-Cpl-Coding/12-linkedlist"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
