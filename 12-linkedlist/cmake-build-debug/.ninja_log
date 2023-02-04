@@ -1,7 +1,5 @@
 # ninja log v5
-34	826	6939136747600665	CMakeFiles/josephus.dir/ll/ll.c.obj	1f840c7ee7ce5aa6
 344	651	6939476933929148	stringhash.exe	b78419d95913f97f
-15	365	6939046354484019	CMakeFiles/josephus.dir/josephus.c.obj	2c99f354c797c985
 4	343	6939476930949460	CMakeFiles/stringhash.dir/stringhash.c.obj	50641a5e64160e78
 827	2165	6939136761716123	josephus.exe	6a09069eada023cd
 22	339	6940081648273383	CMakeFiles/file-management.dir/file-management.c.obj	743aeaf467f471b9
