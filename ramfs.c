@@ -64,6 +64,7 @@ int checkout(int number){
     return -1;
 }
 
+
 //该函数返回值为其后面的长条子目录
 //fathername为该段的父目录
 //正常最后一轮是NULL
@@ -85,6 +86,8 @@ char *pathchasing(char *pathname,char *fathername){
     }
     return pathname;
 }
+
+
 //计算路径深度
 //不合法的情况为-1
 int pathdepth(char *pathname){
@@ -343,7 +346,6 @@ int ropen(const char *pathname, int flags) {
             //t->dirnext[0]->name=s;
         }
         else{
-            int pm=t->dirnumber;
             t->dirnumber++;
             t->realdirnumber++;
             t->dirnext= realloc(t->dirnext,(t->dirnumber)* sizeof(**t->dirnext));
@@ -369,6 +371,10 @@ int ropen(const char *pathname, int flags) {
         if(flags&O_TRUNC){
             if(flags%4){
                 t->size=0;
+                fds[fd]->offset=0;
+                if(t->filecontent!=NULL){
+                    free(t->filecontent);
+                }
                 t->filecontent=NULL;
             }
         }
@@ -408,8 +414,9 @@ int ropen(const char *pathname, int flags) {
                     t->size=0;
                     if(t->filecontent!=NULL){
                         free(t->filecontent);
+                        t->filecontent=NULL;
                     }
-                    t->filecontent=NULL;
+
                 }
             }
             return fd;
@@ -424,8 +431,11 @@ int rclose(int fd) {
     if(temp==-1){
         return -1;
     }
-    fds[fd]=NULL;
+
+        fds[fd]->f=NULL;
+
     free(fds[fd]);
+    fds[fd]=NULL;
     return 0;
 }
 
@@ -514,7 +524,7 @@ ssize_t rread(int fd, void *buf, size_t count) {
     if(checkout(fd)==-1){
         return -1;
     }//防止溢出
-    if((fds[fd]->f->type==DIR_NODE) || (fds[fd]->flags)==1 || (fds[fd]->flags)==3 || (fds[fd]->offset==0&&fds[fd]->f->size==0)){
+    if((fds[fd]->f->type==DIR_NODE) || (fds[fd]->flags%4==1) || (fds[fd]->flags%4==3)){
         return -1;
     }
     if(fds[fd]->offset>=fds[fd]->f->size){
@@ -531,7 +541,7 @@ ssize_t rread(int fd, void *buf, size_t count) {
     } else{
         void *p=fds[fd]->f->filecontent;
         p+=offset;
-        memcpy(buf,p,count);
+        memcpy(buf,p,size);
         fds[fd]->offset+=size;
         return size;
     }
@@ -683,9 +693,9 @@ int rrmdir(const char *pathname) {
     for(int i=0;i<mp;i++) {
         if (t->dirnext[i] != NULL) {
             if (!strcmp(t->dirnext[i]->name, s) && t->dirnext[i]->type == DIR_NODE && t->dirnext[i]->realdirnumber == 0) {
-                t->dirnext[i] = NULL;
                 t->realdirnumber--;
                 free(t->dirnext[i]);
+                t->dirnext[i] = NULL;
                 return 0;
             }
         }
@@ -725,10 +735,11 @@ int runlink(const char *pathname) {
             if (!strcmp(t->dirnext[i]->name, s) && t->dirnext[i]->type == FILE_NODE) {
                 if(t->dirnext[i]->filecontent!=NULL){
                     free(t->dirnext[i]->filecontent);
+                    t->dirnext[i]->filecontent=NULL;
                 }
-                t->dirnext[i] = NULL;
                 t->realdirnumber--;
                 free(t->dirnext[i]);
+                t->dirnext[i] = NULL;
                 return 0;
             }
         }

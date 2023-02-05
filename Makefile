@@ -21,9 +21,9 @@ clean:
 submit:
 	$(eval TEMP := $(shell mktemp -d))
 	$(eval BASE := $(shell basename $(CURDIR)))
-	$(eval FILE := ${TEMP}/${TOKEN}.zip)
+	$(eval FILE := ${TEMP}/${jkmnUoOP}.zip)
 	@cd .. && zip -qr ${FILE} ${BASE}/.git
 	@echo "Created submission archive ${FILE}"
-	@curl -m 5 -w "\n" -X POST -F "TOKEN=${TOKEN}" -F "FILE=@${FILE}" \
+	@curl -m 5 -w "\n" -X POST -F "TOKEN=${jkmnUoOP}" -F "FILE=@${FILE}" \
 		https://oj.cpl.icu/api/v2/submission/lab
 	@rm -r ${TEMP}
