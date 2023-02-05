@@ -1,25 +1,0 @@
-
-cc:S5276›"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¯Øºìüÿÿÿÿ
-lc:S37763"TRefactor this function to reduce its Cognitive Complexity from 41 to the 25 allowed.(âÂ†ıÿÿÿÿ
-Oc:S3972N"7Move this "if" to a new line or add the missing "else".(ÒâÛıÿÿÿÿ
-gc:S3776"TRefactor this function to reduce its Cognitive Complexity from 56 to the 25 allowed.(£Ü¨
-ec:S134ä"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ì¼¨Óÿÿÿÿÿ
-_c:S134ì"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ˆ‚‹F
-qc:S5350—"XMake the type of this variable a pointer-to-const. The current type of "ss" is "char *".(ÃŠï…ùÿÿÿÿ
-rc:S5350§"YMake the type of this variable a pointer-to-const. The current type of "sss" is "char *".(í¬Î ùÿÿÿÿ
-hc:S3776–"TRefactor this function to reduce its Cognitive Complexity from 61 to the 25 allowed.(Ôˆ™“
-`c:S134Í"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(şÎõÄ
-ec:S134Ñ"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ëÊ±½şÿÿÿÿ
-ec:S134à"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Ô†»şÿÿÿÿ
-ec:S134ä"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ûµäŸıÿÿÿÿ
-Ic:S1081š"0Remove the use of this insecure "gets" function.(Éå•Ïúÿÿÿÿ
-Yc:S924Ì"FReduce the number of nested "break" statements from 2 to 1 authorized.(¿“Ë­
-0c:S125("Remove the commented out code.(Ş”Ô
-5c:S125s"Remove the commented out code.(©è€Ÿşÿÿÿÿ
-6c:S125›"Remove the commented out code.(†ı®»úÿÿÿÿ
-1c:S125 "Remove the commented out code.(ãõùß
-1c:S125«"Remove the commented out code.(ˆˆ¥ö
-6c:S125—"Remove the commented out code.(ó·á–üÿÿÿÿ
-6c:S125»"Remove the commented out code.(Çß§œøÿÿÿÿ
-1c:S125æ"Remove the commented out code.(–ˆ–Ã
-6c:S125û"Remove the commented out code.(ËíŸîùÿÿÿÿ
