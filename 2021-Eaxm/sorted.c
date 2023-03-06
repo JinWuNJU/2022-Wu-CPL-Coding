@@ -13,6 +13,7 @@
 //3 4
 #include<stdio.h>
 #include<string.h>
+#include <stdlib.h>
 char s[][30]={"mayi is a good teacher","I love C programming language"};
 int number[1005];
 void sort(int index){

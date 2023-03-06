@@ -1,0 +1,11 @@
+
+5c:S1481†"unused variable 'len'(¯Øºìüÿÿÿÿ8™İ€Œã0
+jc:S5276†"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¯Øºìüÿÿÿÿ8™İ€Œã0
+qc:S5350~"WMake the type of this variable a pointer-to-const. The current type of "s" is "char *".(ó©ï®8›İ€Œã0
+rc:S5350"WMake the type of this variable a pointer-to-const. The current type of "l" is "char *".(Óº¡“8›İ€Œã0
+wc:S5350…"WMake the type of this variable a pointer-to-const. The current type of "y" is "char *".(µàöÿÿÿÿÿ8œİ€Œã0
+]c:S1854†"=Value stored to 'len' during its initialization is never read(¯Øºìüÿÿÿÿ8¼İ€Œã0
+ac:S3807‡"ANull pointer passed as 1st argument to memory comparison function(‹—Ğ¥øÿÿÿÿ8¼İ€Œã0
+<c:S125"Remove the commented out code.(à–ÛÂÿÿÿÿÿ8«Ş€Œã0
+<c:S1255"Remove the commented out code.(€“ªµıÿÿÿÿ8«Ş€Œã0
+6c:S125u"Remove the commented out code.(’©¡78ÓŞ€Œã0

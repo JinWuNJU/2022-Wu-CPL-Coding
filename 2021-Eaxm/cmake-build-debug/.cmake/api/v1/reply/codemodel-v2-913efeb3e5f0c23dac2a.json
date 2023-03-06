@@ -1,0 +1,92 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bsearch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bsearch-Debug-f1872ad01e845a4321e3.json",
+					"name" : "bsearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gobang::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gobang-Debug-3a6eaa129ed8be466bb3.json",
+					"name" : "gobang",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selectionsort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selectionsort-Debug-918a60adce6a538d6927.json",
+					"name" : "selectionsort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sjs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sjs-Debug-ffef59307ded1010cc48.json",
+					"name" : "sjs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorted::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorted-Debug-f9f9b3ef321c90240530.json",
+					"name" : "sorted",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/cmake-build-debug",
+		"source" : "C:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

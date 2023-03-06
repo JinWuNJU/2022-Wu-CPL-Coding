@@ -1,0 +1,3 @@
+C:/D/coding/coding/2022-Wu-Cpl-Coding/ws2_32/cmake-build-debug/CMakeFiles/demo.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/ws2_32/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/ws2_32/cmake-build-debug/CMakeFiles/rebuild_cache.dir

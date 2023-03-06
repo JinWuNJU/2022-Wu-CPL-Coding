@@ -1,2 +1,5 @@
 add_executable(sorted sorted.c)
 add_executable(bsearch bsearch.c)
+add_executable(gobang gobang.c)
+add_executable(selectionsort selectionsort.c)
+add_executable(sjs sjs.c)
