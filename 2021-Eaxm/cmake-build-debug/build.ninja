@@ -106,6 +106,105 @@ build bsearch.exe: C_EXECUTABLE_LINKER__bsearch_Debug CMakeFiles/bsearch.dir/bse
   TARGET_IMPLIB = libbsearch.dll.a
   TARGET_PDB = bsearch.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target gobang
+
+
+#############################################
+# Order-only phony target for gobang
+
+build cmake_object_order_depends_target_gobang: phony || CMakeFiles/gobang.dir
+
+build CMakeFiles/gobang.dir/gobang.c.obj: C_COMPILER__gobang_Debug C$:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/gobang.c || cmake_object_order_depends_target_gobang
+  DEP_FILE = CMakeFiles\gobang.dir\gobang.c.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\gobang.dir
+  OBJECT_FILE_DIR = CMakeFiles\gobang.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target gobang
+
+
+#############################################
+# Link the executable gobang.exe
+
+build gobang.exe: C_EXECUTABLE_LINKER__gobang_Debug CMakeFiles/gobang.dir/gobang.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\gobang.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = gobang.exe
+  TARGET_IMPLIB = libgobang.dll.a
+  TARGET_PDB = gobang.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target selectionsort
+
+
+#############################################
+# Order-only phony target for selectionsort
+
+build cmake_object_order_depends_target_selectionsort: phony || CMakeFiles/selectionsort.dir
+
+build CMakeFiles/selectionsort.dir/selectionsort.c.obj: C_COMPILER__selectionsort_Debug C$:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/selectionsort.c || cmake_object_order_depends_target_selectionsort
+  DEP_FILE = CMakeFiles\selectionsort.dir\selectionsort.c.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\selectionsort.dir
+  OBJECT_FILE_DIR = CMakeFiles\selectionsort.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target selectionsort
+
+
+#############################################
+# Link the executable selectionsort.exe
+
+build selectionsort.exe: C_EXECUTABLE_LINKER__selectionsort_Debug CMakeFiles/selectionsort.dir/selectionsort.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\selectionsort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = selectionsort.exe
+  TARGET_IMPLIB = libselectionsort.dll.a
+  TARGET_PDB = selectionsort.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target sjs
+
+
+#############################################
+# Order-only phony target for sjs
+
+build cmake_object_order_depends_target_sjs: phony || CMakeFiles/sjs.dir
+
+build CMakeFiles/sjs.dir/sjs.c.obj: C_COMPILER__sjs_Debug C$:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/sjs.c || cmake_object_order_depends_target_sjs
+  DEP_FILE = CMakeFiles\sjs.dir\sjs.c.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\sjs.dir
+  OBJECT_FILE_DIR = CMakeFiles\sjs.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target sjs
+
+
+#############################################
+# Link the executable sjs.exe
+
+build sjs.exe: C_EXECUTABLE_LINKER__sjs_Debug CMakeFiles/sjs.dir/sjs.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\sjs.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = sjs.exe
+  TARGET_IMPLIB = libsjs.dll.a
+  TARGET_PDB = sjs.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -134,6 +233,12 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build bsearch: phony bsearch.exe
 
+build gobang: phony gobang.exe
+
+build selectionsort: phony selectionsort.exe
+
+build sjs: phony sjs.exe
+
 build sorted: phony sorted.exe
 
 # =============================================================================
@@ -144,7 +249,7 @@ build sorted: phony sorted.exe
 #############################################
 # Folder: C:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/cmake-build-debug
 
-build all: phony sorted.exe bsearch.exe
+build all: phony sorted.exe bsearch.exe gobang.exe selectionsort.exe sjs.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.

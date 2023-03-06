@@ -1,4 +1,7 @@
 C:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/cmake-build-debug/CMakeFiles/sorted.dir
 C:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/cmake-build-debug/CMakeFiles/bsearch.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/cmake-build-debug/CMakeFiles/gobang.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/cmake-build-debug/CMakeFiles/selectionsort.dir
+C:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/cmake-build-debug/CMakeFiles/sjs.dir
 C:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/D/coding/coding/2022-Wu-Cpl-Coding/2021-Eaxm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
